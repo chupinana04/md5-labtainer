@@ -31,16 +31,6 @@ All labs are designed strictly for **learning, research, and defensive security 
 - Reinforce best practices for secure digital signature schemes
 
 ---
-
-## Learning Outcomes
-After completing these labs, students will be able to:
-- Explain the concept of cryptographic hash collisions
-- Understand the security risks of using weak hash functions
-- Analyze the impact of hash collisions on digital signatures
-- Apply secure hash function recommendations in real-world systems
-
----
-
 ## Environment
 - Platform: **Labtainer**
 - Operating System: Linux
@@ -53,4 +43,3 @@ All experiments are conducted in **isolated virtual lab environments**.
 
 ---
 
-## Repository Structure
